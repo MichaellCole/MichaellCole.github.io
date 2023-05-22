@@ -1,3 +1,18 @@
-head {
-    color: red;
+.link {
+    color: rgb(43, 43, 43);
+    font: 18px "franklin gothic medium";
+    display: block;
+    margin-left: 40px;
+
+}
+
+.link:link { text-decoration: none; }
+.link:visited { text-decoration: none; }
+.link:hover { text-decoration: none; }
+.link:active { text-decoration: none; }
+
+
+html, body {
+    margin: 0;
+    padding: 0;
 }
